@@ -1,0 +1,1 @@
+@"Initial product documentation. Replace with urgent updates."@ | Set-Content -Path doc.txt -Encoding utf8
